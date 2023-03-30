@@ -1,11 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
-	text-align: justify;
+	text-align: center;
 	text-indent: 0;
 }
 
@@ -15,12 +20,19 @@
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
-	text-align: right;
-	margin-right: 1em;
 }
 
-/* The Registrar's Narrative */
+/* The registrar's narrative */
 #chapter-11 blockquote header{
 	font-variant: small-caps;
 	margin-bottom: 1em;
+}
+
+/* Routabille's notebook */
+#chapter-15 blockquote,
+#chapter-16 blockquote,
+#chapter-17 blockquote,
+#chapter-18 blockquote{
+	margin-left: 0;
+	margin-right: 0;
 }
