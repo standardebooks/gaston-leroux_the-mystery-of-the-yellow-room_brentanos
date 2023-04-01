@@ -38,9 +38,13 @@
 		<meta property="term" refines="#subject-2">sh2009123252</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Rouletabille</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<dc:description id="description">A young reporter struggles to investigate a seemingly impossible crime, in which an assailant has escaped from a locked bedroom completely unseen.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Mademoiselle Stangerson is attacked by an unknown assailant, who then escapes from her locked bedroom without being seen. Joseph Rouletabille, a bright young reporter, is drawn to investigate the mystery, trying to understand what really happened (and how!) before another attempt on her life is made.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mystery of the Yellow Room&lt;/i&gt; is an early “locked-room mystery” novel, and helped define it as a genre. &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie&lt;/a&gt;, in her novel &lt;i&gt;The Clocks&lt;/i&gt;, had her fictional detective Hercule Poirot describe it as a masterpiece. John Dickson Carr, frequently cited as the best mystery writer specializing in locked-room mysteries, named it as his own personal favorite example of the genre.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/mysteryyellowro01lerogoog</dc:source>
