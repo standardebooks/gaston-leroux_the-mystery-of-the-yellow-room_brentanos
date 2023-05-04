@@ -57,7 +57,7 @@
 		<dc:source>https://archive.org/details/mysteryyellowro01lerogoog</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100325085</dc:source>
 		<meta property="se:production-notes">A new transcription was made for this ebook, as the extant transcription on Project Gutenberg contained a number of irregularities. Two different book scans were used as sources, but their text is identical to each other. The SVG illustrations in the text were directly traced from original scans.</meta>
-		<meta property="se:word-count">74382</meta>
+		<meta property="se:word-count">74381</meta>
 		<meta property="se:reading-ease.flesch">71.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_the_Yellow_Room</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/gaston-leroux_the-mystery-of-the-yellow-room_brentanos</meta>
