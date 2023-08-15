@@ -12,7 +12,7 @@
 			<reason>The brackets demarcate a narrative interjection, in which the quotes do not need to nest with quotes outside the brackets.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>y-019</code>
 			<reason>The brackets demarcate a narrative interjection, in which the quotes do not need to nest with quotes outside the brackets.</reason>
 		</ignore>
 	</file>
