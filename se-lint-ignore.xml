@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-11.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>The phrase "The Yellow Room" is always fully capitalized within the text.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-20.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>The brackets demarcate a narrative interjection, in which the quotes do not need to nest with quotes outside the brackets.</reason>
 		</ignore>
-		<ignore>
-			<code>y-019</code>
+		<ignore code="y-019">
 			<reason>The brackets demarcate a narrative interjection, in which the quotes do not need to nest with quotes outside the brackets.</reason>
 		</ignore>
 	</file>
