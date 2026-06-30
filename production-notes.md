@@ -1,0 +1,1 @@
+A new transcription was made for this ebook, as the extant transcription on Project Gutenberg contained a number of irregularities. Two different book scans were used as sources, but their text is identical to each other. The SVG illustrations in the text were directly traced from original scans.
