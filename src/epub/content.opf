@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/gaston-leroux/the-mystery-of-the-yellow-room/brentanos</dc:identifier>
 		<dc:date>2023-04-07T21:54:32Z</dc:date>
@@ -51,11 +51,11 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A young reporter struggles to investigate a seemingly impossible crime, in which an assailant has escaped from a locked bedroom completely unseen.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young reporter struggles to investigate a seemingly impossible crime, in which an assailant has escaped from a locked bedroom completely unseen.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Mademoiselle Stangerson is attacked by an unknown assailant, who then escapes from her locked bedroom without being seen. Joseph Rouletabille, a bright young reporter, is drawn to investigate the mystery, trying to understand what really happened (and how!) before another attempt on her life is made.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Mystery of the Yellow Room&lt;/i&gt; is an early “locked-room mystery” novel, and helped define it as a genre. &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie&lt;/a&gt;, in her novel &lt;i&gt;The Clocks&lt;/i&gt;, had her fictional detective Hercule Poirot describe it as a masterpiece. John Dickson Carr, frequently cited as the best mystery writer specializing in locked-room mysteries, named it as his own personal favorite example of the genre.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/mysteryyellowro01lerogoog</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100325085</dc:source>
