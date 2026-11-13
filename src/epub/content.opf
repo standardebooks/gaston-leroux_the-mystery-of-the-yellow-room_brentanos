@@ -75,7 +75,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="translator">Brentano’s</dc:contributor>
 		<meta property="file-as" refines="#translator">Brentano’s</meta>
-		<link href="https://en.wikipedia.org/wiki/Brentano%E2%80%99s" refines="#translator" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Brentano%27s" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no89006762.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Vilhelm Hammershøi</dc:contributor>
